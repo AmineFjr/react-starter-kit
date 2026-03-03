@@ -4,6 +4,9 @@
   "workspaces": {
     "": {
       "name": "@repo/root",
+      "dependencies": {
+        "postgres": "^3.4.8",
+      },
       "devDependencies": {
         "@emotion/babel-plugin": "^11.13.5",
         "@emotion/eslint-plugin": "^11.12.0",

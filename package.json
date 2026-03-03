@@ -150,5 +150,8 @@
     "*": [
       "bunx prettier --check --ignore-unknown"
     ]
+  },
+  "dependencies": {
+    "postgres": "^3.4.8"
   }
 }
